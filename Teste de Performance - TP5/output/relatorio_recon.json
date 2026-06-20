@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-06-20T18:40:12.014159",
+  "dns_recon": {
+    "target": "zonetransfer.me",
+    "output": "Servidor:  UnKnown\nAddress:  2804:14d:1:0:181:213:132:2\n\nNome:    zonetransfer.me\nAddress:  5.196.105.14\n\nNÆo ‚ resposta autoritativa:\n\n",
+    "status": "ok"
+  },
+  "nmap_scan": {
+    "target": "scanme.nmap.org",
+    "raw": "Comando nao encontrado: nmap",
+    "status": "simulated"
+  }
+}

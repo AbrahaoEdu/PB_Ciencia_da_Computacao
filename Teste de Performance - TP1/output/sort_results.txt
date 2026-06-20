@@ -1,0 +1,5 @@
+Algoritmo | Tempo (s) | Complexidade | Primeiro | Ultimo
+----------------------------------------------------------------------
+Bubble Sort | 7.8333 | O(n²) | backup/arquivo_107438.h | tmp/tmp/tmp/tmp/arquivo_291174
+Selection Sort | 5.1762 | O(n²) | backup/arquivo_107438.h | tmp/tmp/tmp/tmp/arquivo_291174
+Insertion Sort | 0.0017 | O(n²) | backup/arquivo_107438.h | tmp/tmp/tmp/tmp/arquivo_291174

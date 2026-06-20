@@ -1,0 +1,2 @@
+DFS passos: 32
+BFS passos: 28

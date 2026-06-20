@@ -1,0 +1,5 @@
+Estrutura | Operacao | Tempo (s) | Memoria (bytes) | Detalhes
+--------------------------------------------------------------------------------
+Hashtable | insert+query+add/remove | 0.1225 | 1871901 | 1a=backup/arquivo_107438.h, 100a=backup/arquivo_497117.cfg, 1000a=backup/src/logs/tmp/arqui, 5000a=docs/backup/arquivo_64559, ultima=tmp/tmp/tmp/tmp/arquivo_2
+Pilha | insert+query+add/remove | 0.0025 | 109187 | 1a=tmp/tmp/tmp/tmp/arquivo_2, 100a=tmp/tmp/arquivo_478721.da, 1000a=tmp/backup/bin/arquivo_41, 5000a=lib/tests/lib/lib/docs/ar, ultima=backup/arquivo_107438.h
+Fila | insert+query+add/remove | 0.0013 | 101437 | 1a=backup/arquivo_107438.h, 100a=backup/arquivo_497117.cfg, 1000a=backup/src/logs/tmp/arqui, 5000a=docs/backup/arquivo_64559, ultima=tmp/tmp/tmp/tmp/arquivo_2

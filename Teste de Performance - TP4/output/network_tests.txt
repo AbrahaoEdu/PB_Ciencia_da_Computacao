@@ -1,0 +1,8 @@
+=== Testes de Rede TP4 ===
+Nota: Servidores devem estar em execucao nas portas 9001-9003.
+Comando curl equivalente para Telnet:
+  curl telnet://127.0.0.1:9003
+curl disponivel: True
+curl 8.19.0 (Windows) libcurl/8.19.0 Schannel zlib/1.3.1 WinIDN WinLDAP
+Release-Date: 2026-03-11
+Protocols: dict file ftp ftps gopher gophers http https imap imaps ipfs ipns ldap ldaps mqtt mqtts pop3
